@@ -1,6 +1,6 @@
 # ◽️/ fonts
 
-Fonts for any kind or personal use.
+Fonts for any kind of personal use.
 
 # 🚀 Fonts
 
