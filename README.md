@@ -1,7 +1,7 @@
 # ◽️/ fonts
 
-Fonts for any kind of personal use.
+Fonts for any kind of personal use. Download-ready.
 
-# 🚀 Fonts
+## Fonts
 
-- [Söhne](https://google.com)
+- 🔥 [Söhne](https://github.com/ramptix/fonts/blob/main/söhne/README.md) — Extraleicht, Leicht, Buch… (5+)
