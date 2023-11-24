@@ -1,3 +1,7 @@
+[← Home](https://github.com/ramptix/fonts)
+
+<br />
+
 <img 
   src="https://github.com/ramptix/fonts/assets/90096971/f7c31a6b-5909-4d2f-90f0-8eea0cb93892"
   alt="Söhne Family"
@@ -30,4 +34,10 @@ The starting point for Söhne was not the Regular style but the “Halbfett”, 
 
 </details>
 
-# Use It
+# Use
+[![Download](https://img.shields.io/badge/%E2%AC%9C%20%E2%94%82%20Download-%23202020?style=for-the-badge)](https://github.com/ramptix/fonts/raw/main/s%C3%B6hne/Sohne-Font-Family.zip)
+[![Source](https://img.shields.io/badge/%F0%9F%8D%B1%20%E2%94%82%20Source-white?style=for-the-badge)](https://fontforfree.com/sohne-font-family/)
+
+***
+
+<div align="center">Ramptix Fonts</div>
