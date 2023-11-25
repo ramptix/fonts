@@ -30,13 +30,14 @@ The starting point for Söhne was not the Regular style but the “Halbfett”, 
   width="600" 
   alt="Söhne used on the OpenAI Platform"
   src="https://github.com/ramptix/fonts/assets/90096971/0c9f66e7-54fc-444b-ab0d-4583974d79f2" />
+
 <sub>Söhne is used on the OpenAI Platform for developers.</sub>
 
 </details>
 
 # Use
 [![Download](https://img.shields.io/badge/%E2%AC%9C%20%E2%94%82%20Download-%23202020?style=for-the-badge)](https://github.com/ramptix/fonts/raw/main/s%C3%B6hne/Sohne-Font-Family.zip)
-[![Source](https://img.shields.io/badge/%F0%9F%8D%B1%20%E2%94%82%20Source-white?style=for-the-badge)](https://fontforfree.com/sohne-font-family/)
+[![Source](https://img.shields.io/badge/%F0%9F%8D%B1%20%E2%94%82%20Source-%233141f5?style=for-the-badge)](https://fontforfree.com/sohne-font-family/)
 
 ***
 
